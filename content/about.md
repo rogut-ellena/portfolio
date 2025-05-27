@@ -1,6 +1,6 @@
 ---
- description: 'meta description of the page'
- --- 
+description: 'meta description of the page'
+--- 
  # Hello There, I'm Elena
  
  ## About me
