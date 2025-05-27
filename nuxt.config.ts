@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 
   devtools: { enabled: true },
    site: { 
-    url: 'https://example.com', 
+    url: 'https://portfolio-lac-sigma-75.vercel.app/', 
     name: 'My Awesome Website' 
     }, 
   app: {
